@@ -1,2 +1,2 @@
 # ClientApp
-Online-Courses tutorials based on Subscriptions 
+Online-Course tutorials based on Subscriptions 
